@@ -5,6 +5,12 @@
 # Instructions to Run the Project
 
 This repository contains the source code for a project with backend and frontend. Follow the instructions below to run the project locally.
+## About
+
+The ChatBotVisor is a project aimed at creating an interactive and intelligent chatbot that can learn from users and provide personalized responses. The main objective is to create a natural and friendly conversation experience where the chatbot can understand and intelligently respond to users' questions and instructions.
+
+The differentiating factor of ChatBotVisor lies in its continuous learning capability. It is designed to learn from user interactions, storing relevant information and updating its knowledge to deliver increasingly accurate and personalized responses.
+
 
 ## Prerequisites
 
@@ -46,6 +52,11 @@ Feel free to adapt the instructions according to the needs of your project.
 # Instruções para Executar o Projeto
 
 Este repositório contém o código-fonte de um projeto com backend e frontend. Siga as instruções abaixo para executar o projeto localmente.
+## Sobre
+
+O ChatBotVisor é um projeto que visa criar um chatbot interativo e inteligente, capaz de aprender com os usuários e fornecer respostas personalizadas. O objetivo principal é criar uma experiência de conversação natural e amigável, onde o chatbot seja capaz de entender e responder de forma inteligente às perguntas e instruções dos usuários.
+
+O diferencial do ChatBotVisor está na sua capacidade de aprendizado contínuo. Ele é projetado para aprender com as interações dos usuários, armazenando informações relevantes e atualizando seu conhecimento para fornecer respostas cada vez mais precisas e personalizadas.
 
 ## Pré-requisitos
 
