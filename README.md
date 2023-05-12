@@ -1,3 +1,46 @@
+# English
+
+# ChatBotVisor
+
+# Instructions to Run the Project
+
+This repository contains the source code for a project with backend and frontend. Follow the instructions below to run the project locally.
+
+## Prerequisites
+
+Before proceeding, make sure you have the following requirements installed on your machine:
+
+- Docker
+- Node.js (along with npm or yarn)
+
+## Step 1: Running the Backend
+
+1. Open a terminal and navigate to the backend folder.
+2. Execute the command `docker-compose up` to start the MongoDB server using Docker.
+3. After the MongoDB server is up and running, execute the command `npm install` or `yarn` to install the backend dependencies.
+4. Finally, execute the command `yarn start` or `npm run start` to start the backend server.
+
+With these steps completed, the backend will be running on the specified port.
+
+## Step 2: Running the Frontend
+
+1. Open a new terminal and navigate to the frontend folder.
+2. Execute the command `npm install` or `yarn` to install the frontend dependencies.
+3. Then, execute the command `yarn start` or `npm run start` to start the frontend development server.
+
+After completing these steps, the frontend will be available on a local server and can be accessed through a web browser at the specified address.
+
+Make sure the backend is running before starting the frontend, as the frontend depends on the backend to communicate with the server.
+
+---
+
+Follow the instructions above to run the project locally. If everything is properly set up, you will be able to access the application in a web browser and interact with it.
+
+Feel free to adapt the instructions according to the needs of your project.
+
+---
+
+# Português
 # ChatBotVisor
 
 # Instruções para Executar o Projeto
